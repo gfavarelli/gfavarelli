@@ -7,7 +7,7 @@
 
 <h2>|> Aqui no Git, fiz alguns projetinhos, segue os links: </h2>
 <ul>
-	<li><a href="https://escoladevs-chat-socket-io.herokuapp.com/" target="_blank">Chat com Nodejs (socket.io) </a></li>****
+	<li><a href="https://escoladevs-chat-socket-io.herokuapp.com/" target="_blank">Chat com Nodejs (socket.io) </a></li>
 	<li><a href="https://gfavarelli.github.io/jogo-velha-web-app/" target="_blank">Jogo da velha - Online (jogue com um amigo)</a></li>
 	<li><a href="https://gfavarelli.github.io/landing-page-gamer/" target="_blank">Landing Page Gamer</a></li>
 	<li><a href="https://gfavarelli.github.io/landing-page-vendas/" target="_blank">Landing Page de Vendas</a></li>
